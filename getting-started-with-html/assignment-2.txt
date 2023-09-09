@@ -1,0 +1,25 @@
+2. Explain the purpose of comments in HTML and provide an example of how to use comments in HTML document?.
+ans:  Purpose of comments in HTML document is to add the explanation of code or to hide a part of code in HTML document that should not render  in browser.
+
+for example, we use <!-- --> to comment single line and multi line of html code.
+
+we can add a explanation of code as well
+<!-- Write a simple program in HTML that displays the heading HTML defines the Content and structure of your website on the browser -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Assignment 1</title>
+  </head>
+  <body>
+
+This is a single line comment
+<!-- <h2>Assignment 2</h2> -->
+
+This is how we add a multiline comment
+<!-- <h1>Assignment 1</h1>
+<h2>Assignment 2</h2>
+<h3>Assignment 3</h3> -->
+
+<h1>HTML defines the Content and structure of your website</h1>
+  </body>
+</html>

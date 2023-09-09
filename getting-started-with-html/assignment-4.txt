@@ -1,0 +1,20 @@
+4.Write a short note on tag and element with an example?
+Ans:
+ Tag:
+ a tag in html describes how the content is described. for example p, h1, h2, h3, strong etc...
+Each tag has a opening tag and a closing tag. some of the tags can be self closing tags.
+
+
+HTML Element:
+basically HTML element consists of 3 parts, opening tag, content and a closing tag.
+
+an opening tag is represented as <>.
+an closing tag is represented as </>
+content can be a text, img or an child element
+
+for example: if i have to use the paragraph element then
+<p> This is the paragraph </p>.
+
+<p> --> opening tag.
+This is the paragraph --> content
+</p> --> closing tag
